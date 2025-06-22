@@ -1,6 +1,6 @@
 # ZentraD-
 This is my Git Repository
-
+<br>
 Author - Dhiraj Jadhav (dhirajjadhav440@gmail.com).
 
 Zentra D+ - Easy Attendance, a simple and intuitive web application built to streamline the process of tracking student attendance. This project reflects my continuous journey of learning and applying frontend technologies effectively.
